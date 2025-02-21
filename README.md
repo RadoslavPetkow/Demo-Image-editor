@@ -58,16 +58,12 @@ You can package this application into a standalone executable using PyInstaller:
 	1.	Install PyInstaller:
 
 pip install pyinstaller
-
-
 	2.	Create the Executable:
 Navigate to the directory containing image_editor.py and run:
 
 pyinstaller --onefile --windowed image_editor.py
-
 	•	The --onefile flag bundles the app into a single executable.
 	•	The --windowed flag prevents a terminal window from appearing when the app is run.
-
 	3.	Locate Your Executable:
 After the process completes, check the dist folder for your standalone application:
 	•	On Windows: You will find image_editor.exe.
@@ -101,4 +97,3 @@ Future Enhancements
 	•	Comprehensive layer management.
 	•	Enhanced error handling and user interface improvements.
 	•	Additional image processing and editing tools.
-
