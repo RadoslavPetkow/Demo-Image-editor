@@ -102,8 +102,3 @@ Future Enhancements
 	•	Enhanced error handling and user interface improvements.
 	•	Additional image processing and editing tools.
 
-License
-
-This project is provided for educational purposes. You are free to modify and extend it as needed.
-
-This README provides an overview, installation and usage instructions, and highlights the available features. Feel free to adjust it to better suit your project’s needs!
